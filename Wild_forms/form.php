@@ -8,7 +8,7 @@
 </head>
 <body>
     <main>
-  <form action="index.php" method="post">
+  <form action="thanks.php" method="post">
   <div>
     <label  for="surname">Surname:</label>
     <input  type="text"  id="surname"  name="user_surname">
