@@ -1,0 +1,7 @@
+{
+    "require": {
+        "gipetto/cowsay": "^1.2"
+    }
+
+  
+}
